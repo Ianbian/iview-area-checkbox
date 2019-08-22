@@ -72,7 +72,7 @@ export default {
 };
 </script>
 
-<style lang="stylus">
+<style lang="less">
 body {
   background: #f0f2f5;
 }
